@@ -3,7 +3,7 @@
 
  WASD or arrow keys to move, space to jump, good luck!
 
- 1. Download file
+ 1. Download "Passion Project.zip" file
  2. Open file
  3. Move mouse over to "Export"
  4. Click twice with the left button on the top of your mouse in quick sucession
